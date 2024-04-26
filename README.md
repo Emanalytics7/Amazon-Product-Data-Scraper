@@ -1,5 +1,5 @@
 # Amazon-Product-Details-Scraper
-Scrape details of products such as `product name`, `manufacturer`, `description` and `product details` from Amazon using Selenium and Beautiful Soup.
+Scrape details of products such as `product_urls`, `product name`, `manufacturer`, `description` and `product details` from Amazon using Selenium and Beautiful Soup.
 
 ## Installation
 
