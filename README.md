@@ -1,6 +1,5 @@
 # Amazon-Product-Details-Scraper
 Scrape details of products such as `product_urls`, `product name`, `manufacturer`, `description` and `product details` from Amazon using Selenium and Beautiful Soup.
-
 ## Installation
 
 1. Clone the repository to your local machine:
@@ -17,3 +16,6 @@ Scrape details of products such as `product_urls`, `product name`, `manufacturer
 4. Usage
    ```bash
    scraper.py
+
+!Note:
+I didn't save the `product_urls` but you can use this also for you own use case. :)
