@@ -13,7 +13,7 @@ Scrape details of products such as `product name`, `manufacturer`, `description`
 3. Install dependencies:
    ```bash
      pip install -r requirement.txt
-   
+    
 4. Usage
    ```bash
    scraper.py
