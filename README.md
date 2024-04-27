@@ -19,3 +19,7 @@ Scrape details of products such as `product_urls`, `product name`, `manufacturer
 
 !Note:
 I didn't save the `product_urls` but you can use this also for you own use case. :)
+
+## Disclaimer!
+Only used this for educational purpose. Otherwise use amazon api for your use case!
+
