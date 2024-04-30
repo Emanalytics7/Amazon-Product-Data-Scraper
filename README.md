@@ -6,14 +6,15 @@ Scrape details of products such as `product_urls`, `product name`, `manufacturer
    ```bash
    https://github.com/Emanalytics7/Amazon-Product-Data-Scraper.git
 2. Navigate to the project directory
+   
    ```bash
    cd Amazon-Product-Data-Scraper
 
-3. Install dependencies:
+4. Install dependencies:
    ```bash
      pip install -r requirement.txt
     
-4. Usage
+5. Usage
    ```bash
    scraper.py
 
